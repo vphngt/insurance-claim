@@ -28,3 +28,8 @@
 * Safely **auto-approved 59% of all incoming claims** by verifying them as low-risk, significantly reducing manual overhead.
 * Enabled operational teams to effectively prioritize a heavy backlog of **20,000+ claims** awaiting investigation.
 
+
+## Limitation
+This project uses a public insurance claims dataset that appears to be synthetic. Real insurance claim records are not publicly available due to strict privacy and regulatory constraints. 
+
+**The project is ONLY for portfolio and learning purposes and does not reflect real insurer performance.**
