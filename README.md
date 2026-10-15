@@ -13,8 +13,15 @@
 * **Power BI**
 
 
+
 ## Key Features
 * **Three-Tier Risk Segmentation**: Programmed a triage system utilizing SQL CTEs and Window Functions to categorize claims into Low, Medium, and High risk.
+
+
+
+## Dashboard Preview
+![Dashboard](powerbi/INSURANCE_page-0001.jpg)
+
 
 
 ## Results
